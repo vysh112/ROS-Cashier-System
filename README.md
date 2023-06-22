@@ -70,3 +70,7 @@ The `inventory` and `income` parameters can be configured using the ROS paramete
 ```bash
 rosparam set /inventory <value>
 rosparam set /income <value>
+
+## Youtube Video Link:
+
+https://youtu.be/S29iwi_BxkE
